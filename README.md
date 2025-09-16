@@ -8,7 +8,7 @@ Passionate about creating efficient backend systems, interactive frontends, and 
 ---
 
 ## 🛠️ Tech Stack
-- **Backend:** Python (FastAPI, Flask), Node.js (Express, NestJS)
+- **Backend:** Python (FastAPI), Node.js (Express)
 - **Frontend:** React.js, Next.js, Redux, Context API
 - **Databases:** PostgreSQL, MongoDB, MySQL
 - **DevOps & Tools:** Docker, GitHub Actions, AWS
