@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhammad Hameed (@mhamail)
+# 👋 Hi, I'm Muhammad Hamail (@mhamail)
 
 🚀 Professional Full-Stack Developer | 💡 Problem Solver | 📦 Open-Source Contributor  
 
